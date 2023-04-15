@@ -8,4 +8,4 @@ All quotes displayed on this project are responces from qoutable api.
 
 ## Unsplash
 All background images displayed on this project are from unsplash. We made use of the unsplash api, 
-check it out at [https://api.unsplash.com/search/photos](https://api.unsplash.com)
+check it out at [https://api.unsplash.com/](https://api.unsplash.com)
